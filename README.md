@@ -1,1 +1,2 @@
-# NLP--Predicting-play-store-reviews
+# NLP--Analysing-play-store-reviews
+This project is on analysing reviews of an app (Street Tag in this case). Reviews were splitted into 2 categories; Negative and Postive. Also major words used seen in the reviews were highlighted. This will assist organisations in understanding their users better, knowing what their customers want and how best to satisfy them. To get this dataset, I scraped reviews from Google play store.
